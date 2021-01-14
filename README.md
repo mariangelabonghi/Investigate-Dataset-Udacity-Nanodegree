@@ -1,6 +1,6 @@
-#Investigate a dataset
+# Investigate a dataset
 
-This project is the second project for "Data Analyst" Udacity Nanodegree where I analyzed the dataset "No-show appointments"
+This is the second project for the "Data Analyst" [Udacity](https://www.udacity.com) Nanodegree where I analyzed the dataset "No-show appointments"
 
 ## Introduction
 
