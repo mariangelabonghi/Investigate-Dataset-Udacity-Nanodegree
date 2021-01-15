@@ -14,3 +14,15 @@ The investigation of the dataset will be focused on the following points:
 [1]original source on [Kaggle](https://www.kaggle.com/joniarroba/noshowappointment)\
 [2]‘Scholarship’ indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família\
 [3]‘Neighborhood’ indicates the location of the hospital.
+
+## How to...
+
+- download the file "investigate-a-dataset-project.html" and open it with a browser.
+
+or
+
+- install jupyter notebook following the instruction here: https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html
+- install the following libraries: pandas, numpy, matplotlib;
+- download the files: "investigate-a-dataset-project.ipynb", "no_show_appointments.csv";
+- from terminal, in the same folder of the files downloaded in the previous point, run the command `jupyter notebook`;
+- from jupyter interface, click on "investigate-a-dataset-project.ipynb" to open it.
