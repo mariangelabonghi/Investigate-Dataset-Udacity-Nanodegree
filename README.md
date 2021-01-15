@@ -2,7 +2,7 @@
 
 This is the second project for the "Data Analyst" [Udacity](https://www.udacity.com) Nanodegree where I analyzed the dataset "No-show appointments"
 
-## Introduction
+## Description
 
 This dataset[1] collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment.
 
